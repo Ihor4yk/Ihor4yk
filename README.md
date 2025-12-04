@@ -49,6 +49,7 @@ Key achievement: implemented dynamic modal logic and improved component interact
     <img src="https://img.shields.io/badge/🇺🇦 Ukrainian-Native-FFD700?style=for-the-badge&labelColor=000" />
   </p>
 </did>
+<h2>📫 How to reach me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ihor-lyashenyk) [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/igor4ykk)
 
