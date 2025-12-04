@@ -55,9 +55,11 @@ Key achievement: implemented dynamic modal logic and improved component interact
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank" style="display:inline-block; margin-right:6px;">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
+    |
   <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank" style="display:inline-block; margin-right:6px;">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
+    |
   <a href="https://t.me/YOUR_USERNAME" target="_blank" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   </a>
