@@ -42,11 +42,16 @@ Key achievement: implemented dynamic modal logic and improved component interact
   </ul>
 </div>
 <did>
-  <h2>🗣️ Languages</h2>
+  <h2>🗣️ Languages:</h2>
   <p>
     <img src="https://img.shields.io/badge/🇺🇸 English-Beginner-1E90FF?style=for-the-badge&labelColor=000" />
     &nbsp;
     <img src="https://img.shields.io/badge/🇺🇦 Ukrainian-Native-FFD700?style=for-the-badge&labelColor=000" />
   </p>
-
 </did>
+<div>
+  <h2>📫 How to reach me:</h2>
+  <a>LinkedIn</a>
+  <a>Telegram</a>
+  <a>Email</a>
+</div>
