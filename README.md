@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-000?logo=api&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML-000?logo=html5&logoColor=E34F26&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS-000?logo=css3&logoColor=1572B6&style=for-the-badge" />
 </p>
