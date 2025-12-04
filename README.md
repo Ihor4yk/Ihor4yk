@@ -52,16 +52,17 @@ Key achievement: implemented dynamic modal logic and improved component interact
 <div>
   <h2>📫 How to reach me:</h2>
   <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-
-  <a href="https://t.me/YOUR_USERNAME" target="_blank">
+  &nbsp;
+  <a href="https://t.me/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
 </p>
+
 </div>
