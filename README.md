@@ -41,16 +41,10 @@ Key achievement: implemented dynamic modal logic and improved component interact
     </li>
   </ul>
 </div>
-🗣️ Languages
-
-![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
-
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
-  
- 📫 How to reach me:  
-
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourusername) | [Email](mailto:youremail@gmail.com) 
-
-
+<did>
+  <h2>🗣️ Languages</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Ukrainian-Native-000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/English-Beginner-000?style=for-the-badge" />
+  </p>
+</did>
