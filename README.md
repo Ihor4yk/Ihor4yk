@@ -19,7 +19,7 @@
   <h2>💻Featured Projects</h2>
   <ul>
     <li>
-      <a href="http://ihor4yk.github.io/WebStudio/" target="_blank">WebStudio</a> - <span>a responsive website for a web design studio, built using modern layout techniques and a modular styling approach.
+      <a href="http://ihor4yk.github.io/WebStudio/" target="_blank" >WebStudio</a> - <span>a responsive website for a web design studio, built using modern layout techniques and a modular styling approach.
  The goal was to create an intuitive and visually appealing interface that effectively presents the company’s services and portfolio.
     <br>
 Type: individual project
@@ -29,7 +29,7 @@ Role: developer
 Key achievement: built a fully responsive multi-page website with semantic HTML and clean SCSS structure.</span>
     </li>
      <li>
-      <a href="https://ihor4yk.github.io/Portfolio-Jefferson/" target="_blank">Portfolio-Jefferson</a> - <span>a responsive and visually appealing personal portfolio website designed to showcase a developer’s professional skills, experience, and projects.
+      <a href="https://ihor4yk.github.io/Portfolio-Jefferson/" target="_blank" >Portfolio-Jefferson</a> - <span>a responsive and visually appealing personal portfolio website designed to showcase a developer’s professional skills, experience, and projects.
 I was responsible for developing the footer section, the modal window, and partially implementing API requests to the backend.
 I also contributed to maintaining the JavaScript logic structure for individual sections, ensuring smooth interaction between UI components and user actions.
     <br>
