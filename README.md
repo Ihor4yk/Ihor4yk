@@ -4,34 +4,11 @@ Front-end developer with experience in building modern web interfaces using Java
 
 🧰 Tech Stack
 <p>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>
-    <div>JavaScript</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20"/>
-    <div>TypeScript</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/>
-    <div>React</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="20" height="20"/>
-    <div>Next.js</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/>
-    <div>HTML</div>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/>
-    <div>CSS</div>
-  </div>
+  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-000?logo=html5&logoColor=E34F26&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-000?logo=css3&logoColor=1572B6&style=for-the-badge" />
 </p>
 
