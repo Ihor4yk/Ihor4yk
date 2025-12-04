@@ -17,11 +17,13 @@
 </div>
 <div>
   <h2>💻Featured Projects</h2>
-  <p>
-    <h3><a href="http://ihor4yk.github.io/WebStudio/">-WebStudio</a></h3>
-  </p>
+  <h3><a href="http://ihor4yk.github.io/WebStudio/">WebStudio</a> - <span>a responsive website for a web design studio, built using modern layout techniques and a modular styling approach.
+ The goal was to create an intuitive and visually appealing interface that effectively presents the company’s services and portfolio.
+Type: individual project
+Role: developer
+Key achievement: built a fully responsive multi-page website with semantic HTML and clean SCSS structure.</span>
+  </h3>
 </div>
-<!-- -[WebStudio](http://ihor4yk.github.io/WebStudio/) -->
   
   
 
