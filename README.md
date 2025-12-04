@@ -52,7 +52,7 @@ Key achievement: implemented dynamic modal logic and improved component interact
 <div>
   <h2>📫 How to reach me:</h2>
   <p>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank" style="display:inline-block; margin-right:6px;">
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank" style="display:inline-block; text-decoration: none; margin-right:6px;">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank" style="display:inline-block; margin-right:6px;">
