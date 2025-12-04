@@ -50,4 +50,6 @@ Key achievement: implemented dynamic modal logic and improved component interact
   </p>
 </did>
   <h2>📫 How to reach me:</h2>
+
+
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourusername) | [Email](mailto:youremail@gmail.com)
