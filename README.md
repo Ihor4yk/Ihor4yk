@@ -18,9 +18,10 @@
 <div>
   <h2>💻Featured Projects</h2>
   <p>
-    <h3>-[WebStudio](http://ihor4yk.github.io/WebStudio/)</h3>
+    <h3><a href="http://ihor4yk.github.io/WebStudio/">-WebStudio</a></h3>
   </p>
 </div>
+<!-- -[WebStudio](http://ihor4yk.github.io/WebStudio/) -->
   
   
 
