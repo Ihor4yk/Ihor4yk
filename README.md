@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Ihor Lyashenyk</h2>
+<h2>👋 Hi, I'm Ihor Liashenyk</h2>
 <div>
   <h1>Junior Front-end Developer</h1>
   <p>Front-end developer with experience in building modern web interfaces using JavaScript, TypeScript, React, Next.js, HTML, and CSS. Skilled in developing responsive UIs, implementing interactive features, and integrating client-side logic with external APIs. Familiar with version control workflows, collaborative development practices, and creating clean, maintainable code. Focused on delivering intuitive user experiences, ensuring consistent component behavior, and applying best practices in performance and accessibility. Continuously improving technical skills and aiming to contribute to scalable, user-oriented web applications.</p>
