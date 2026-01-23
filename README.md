@@ -22,9 +22,7 @@
 <h3>ToolNext — Team Project (Frontend & Backend Developer)</h3> 
     
 <a href="https://project-group-6-fronted.vercel.app" target="_blank">Live Demo</a> |
-
 <a href="https://github.com/Buievska/project_group_6_fronted" target="_blank">GitHub Frontend</a> |
-
 <a href="https://github.com/Buievska/project_group_6_backend" target="_blank">GitHub Backend</a>
 
 • Developed booking-related frontend pages using Next.js App Router:
@@ -37,12 +35,11 @@
 Tech stack: Next.js | React | TypeScript | Zustand | TanStack React Query | Formik | Axios |
 Node.js | Express | MongoDB | Mongoose | JWT
 
-<a>href="https://vityayakymchuk.github.io/Portfolio/" target="_blank" >Portfolio-Jefferson</a> |
-<a>href="https://github.com/vityayakymchuk/Portfolio" target="_blank" >GitHub-repository</a>
+<a href="https://vityayakymchuk.github.io/Portfolio/" target="_blank">Portfolio-Jefferson</a> |
+<a href="https://github.com/vityayakymchuk/Portfolio" target="_blank">GitHub-repository</a>
 
-a responsive and visually appealing personal portfolio website designed to showcase a developer’s professional skills, experience, and projects.
-
-      
+A team project — a responsive and visually appealing personal portfolio website designed to showcase a developer’s professional skills, experience, and projects.
+  
 I was responsible for developing the footer section, the modal window, and partially implementing API requests to the backend.
 I also contributed to maintaining the JavaScript logic structure for individual sections, ensuring smooth interaction between UI components and user actions.
     <br>
@@ -51,8 +48,14 @@ Type: team project
 Role: developer
     <br>
 Key achievement: implemented dynamic modal logic and improved component interaction through optimized JS architecture.</span>
+
+<a href="https://notehub-notes-app.vercel.app" target="_blank">NoteHub</a> |
+<a href="https://github.com/Ihor4yk/notehub-notes-app" target="_blank">GitHub-repository</a>
+
+Independently built a personal note management application (NoteHub) using Next.js, React, and TypeScript.
+Designed and implemented user authentication, note creation and management with tags, search, and pagination.
+Applied TanStack React Query for data fetching and Zustand for client-side state management.
     
-</div>
 <did>
   <h2>🗣️ Languages:</h2>
   <p>
@@ -63,7 +66,7 @@ Key achievement: implemented dynamic modal logic and improved component interact
 </did>
 <h2>📫 How to reach me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ihor-lyashenyk) [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/igor4ykk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ihor-liashenyk) [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/igor4ykk)
 
 
 
