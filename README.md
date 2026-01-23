@@ -3,20 +3,47 @@
   <h1>Junior Fullstack Developer</h1>
   <p>Junior Fullstack Developer with hands-on experience in building responsive web applications and RESTful APIs. Skilled in JavaScript, TypeScript, React, Next.js, and Node.js. Experienced in both frontend and backend development, including API integration, authentication, and basic database operations. Completed Fullstack Development course at GoIT with practical individual and team projects.</p>
 </div>
-<div>
-  <h2>🧰 Tech Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/REST%20API-000?logo=api&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/HTML-000?logo=html5&logoColor=E34F26&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/CSS-000?logo=css3&logoColor=1572B6&style=for-the-badge" />
-  </p>
-</div>
-<div>
-  
+
+<h2>🧰 Tech Stack</h2>
+
+<h3>Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=E34F26&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6&style=for-the-badge" />
+</p>
+
+<h3>Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-000?logo=api&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRUD-000?logo=database&logoColor=white&style=for-the-badge" />
+</p>
+
+<h3>Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-000?logo=mongodb&logoColor=47A248&style=for-the-badge" />
+</p>
+
+<h3>Deployment & Cloud</h3>
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Render-000?logo=render&logoColor=white&style=for-the-badge" />
+</p>
+
+<h3>Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-000?logo=postman&logoColor=FF6C37&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTTP-000?logo=web&logoColor=white&style=for-the-badge" />
+</p>
+
 <h2>💻Featured Projects</h2>
       
 <h3>ToolNext — Team Project (Frontend & Backend Developer)</h3> 
