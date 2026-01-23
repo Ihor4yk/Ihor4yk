@@ -1,7 +1,7 @@
 <h2>👋 Hi, I'm Ihor Liashenyk</h2>
 <div>
-  <h1>Junior Front-end Developer</h1>
-  <p>Front-end developer with experience in building modern web interfaces using JavaScript, TypeScript, React, Next.js, HTML, and CSS. Skilled in developing responsive UIs, implementing interactive features, and integrating client-side logic with external APIs. Familiar with version control workflows, collaborative development practices, and creating clean, maintainable code. Focused on delivering intuitive user experiences, ensuring consistent component behavior, and applying best practices in performance and accessibility. Continuously improving technical skills and aiming to contribute to scalable, user-oriented web applications.</p>
+  <h1>Junior Fullstack Developer</h1>
+  <p>Junior Fullstack Developer with hands-on experience in building responsive web applications and RESTful APIs. Skilled in JavaScript, TypeScript, React, Next.js, and Node.js. Experienced in both frontend and backend development, including API integration, authentication, and basic database operations. Completed Fullstack Development course at GoIT with practical individual and team projects.</p>
 </div>
 <div>
   <h2>🧰 Tech Stack</h2>
@@ -16,13 +16,13 @@
   </p>
 </div>
 <div>
-  <h2>💻Featured Projects</h2>
-  <ul>
-    <li>
-      <h2>ToolNext — Team Project (Frontend & Backend Developer)</h2> 
+  
+<h2>💻Featured Projects</h2>
+      
+<h3>ToolNext — Team Project (Frontend & Backend Developer)</h3> 
     
-<a href="https://project-group-6-fronted.vercel.app" target="_blank">Live Demo</a> 
-<a href="https://github.com/Buievska/project_group_6_fronted" target="_blank">GitHub Frontend</a>
+<a href="https://project-group-6-fronted.vercel.app" target="_blank">Live Demo</a> |
+<a href="https://github.com/Buievska/project_group_6_fronted" target="_blank">GitHub Frontend</a> |
 <a href="https://github.com/Buievska/project_group_6_backend" target="_blank">GitHub Backend</a>
 
 • Developed booking-related frontend pages using Next.js App Router:
@@ -35,9 +35,11 @@
 Tech stack: Next.js | React | TypeScript | Zustand | TanStack React Query | Formik | Axios |
 Node.js | Express | MongoDB | Mongoose | JWT
 
-<a>href="https://vityayakymchuk.github.io/Portfolio/" target="_blank" >Portfolio-Jefferson</a> - a responsive and visually appealing personal portfolio website designed to showcase a developer’s professional skills, experience, and projects.
-
+<a>href="https://vityayakymchuk.github.io/Portfolio/" target="_blank" >Portfolio-Jefferson</a> |
 <a>href="https://github.com/vityayakymchuk/Portfolio" target="_blank" >GitHub-repository</a>
+
+a responsive and visually appealing personal portfolio website designed to showcase a developer’s professional skills, experience, and projects.
+
       
 I was responsible for developing the footer section, the modal window, and partially implementing API requests to the backend.
 I also contributed to maintaining the JavaScript logic structure for individual sections, ensuring smooth interaction between UI components and user actions.
@@ -47,8 +49,7 @@ Type: team project
 Role: developer
     <br>
 Key achievement: implemented dynamic modal logic and improved component interaction through optimized JS architecture.</span>
-    </li>
-  </ul>
+    
 </div>
 <did>
   <h2>🗣️ Languages:</h2>
