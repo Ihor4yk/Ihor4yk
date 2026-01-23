@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Ihor Liashenyk</h2>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fdfa749e-0a9f-4d59-b049-d3144ee5c3bf" /><h2>👋 Hi, I'm Ihor Liashenyk</h2>
 <div>
   <h1>Junior Front-end Developer</h1>
   <p>Front-end developer with experience in building modern web interfaces using JavaScript, TypeScript, React, Next.js, HTML, and CSS. Skilled in developing responsive UIs, implementing interactive features, and integrating client-side logic with external APIs. Familiar with version control workflows, collaborative development practices, and creating clean, maintainable code. Focused on delivering intuitive user experiences, ensuring consistent component behavior, and applying best practices in performance and accessibility. Continuously improving technical skills and aiming to contribute to scalable, user-oriented web applications.</p>
@@ -19,16 +19,22 @@
   <h2>💻Featured Projects</h2>
   <ul>
     <li>
-      <a href="https://ihor4yk.github.io/webstudio-project/" target="_blank" >WebStudio</a> - <span>a responsive website for a web design studio, built using modern layout techniques and a modular styling approach.
- The goal was to create an intuitive and visually appealing interface that effectively presents the company’s services and portfolio.
-    <br>
-Type: individual project
-    <br>
-Role: developer
-    <br>
-Key achievement: built a fully responsive multi-page website with semantic HTML and clean SCSS structure.</span>
-    </li>
-     <li>
+      <h2>ToolNext — Team Project (Frontend & Backend Developer)</h2> 
+      
+<a href="https://project-group-6-fronted.vercel.app" target="_blank">Live Demo</a> 
+<a href="https://github.com/Buievska/project_group_6_fronted" target="_blank">GitHub Frontend</a>
+<a href="https://github.com/Buievska/project_group_6_backend" target="_blank">GitHub Backend</a>
+
+• Developed booking-related frontend pages using Next.js App Router:
+– Tool booking page (/tools/[toolId]/booking)
+– Booking confirmation page (/confirm/booking)
+• Improved and finalized the date picker/calendar logic used in the booking form
+• Integrated frontend with REST API using Axios and React Query
+• Implemented a public backend endpoint to fetch user public profile data by user ID
+• Worked in a cross-functional team using GitHub flow and code reviews
+Tech stack: Next.js | React | TypeScript | Zustand | TanStack React Query | Formik | Axios |
+Node.js | Express | MongoDB | Mongoose | JWT
+        
       <a href="https://portfolio-jefferson-project.vercel.app/" target="_blank" >Portfolio-Jefferson</a> - <span>a responsive and visually appealing personal portfolio website designed to showcase a developer’s professional skills, experience, and projects.
 I was responsible for developing the footer section, the modal window, and partially implementing API requests to the backend.
 I also contributed to maintaining the JavaScript logic structure for individual sections, ensuring smooth interaction between UI components and user actions.
