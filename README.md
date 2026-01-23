@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fdfa749e-0a9f-4d59-b049-d3144ee5c3bf" /><h2>👋 Hi, I'm Ihor Liashenyk</h2>
+<h2>👋 Hi, I'm Ihor Liashenyk</h2>
 <div>
   <h1>Junior Front-end Developer</h1>
   <p>Front-end developer with experience in building modern web interfaces using JavaScript, TypeScript, React, Next.js, HTML, and CSS. Skilled in developing responsive UIs, implementing interactive features, and integrating client-side logic with external APIs. Familiar with version control workflows, collaborative development practices, and creating clean, maintainable code. Focused on delivering intuitive user experiences, ensuring consistent component behavior, and applying best practices in performance and accessibility. Continuously improving technical skills and aiming to contribute to scalable, user-oriented web applications.</p>
@@ -20,7 +20,7 @@
   <ul>
     <li>
       <h2>ToolNext — Team Project (Frontend & Backend Developer)</h2> 
-      
+    
 <a href="https://project-group-6-fronted.vercel.app" target="_blank">Live Demo</a> 
 <a href="https://github.com/Buievska/project_group_6_fronted" target="_blank">GitHub Frontend</a>
 <a href="https://github.com/Buievska/project_group_6_backend" target="_blank">GitHub Backend</a>
@@ -34,8 +34,11 @@
 • Worked in a cross-functional team using GitHub flow and code reviews
 Tech stack: Next.js | React | TypeScript | Zustand | TanStack React Query | Formik | Axios |
 Node.js | Express | MongoDB | Mongoose | JWT
-        
-      <a href="https://portfolio-jefferson-project.vercel.app/" target="_blank" >Portfolio-Jefferson</a> - <span>a responsive and visually appealing personal portfolio website designed to showcase a developer’s professional skills, experience, and projects.
+
+<a>href="https://vityayakymchuk.github.io/Portfolio/" target="_blank" >Portfolio-Jefferson</a> - a responsive and visually appealing personal portfolio website designed to showcase a developer’s professional skills, experience, and projects.
+
+<a>href="https://github.com/vityayakymchuk/Portfolio" target="_blank" >GitHub-repository</a>
+      
 I was responsible for developing the footer section, the modal window, and partially implementing API requests to the backend.
 I also contributed to maintaining the JavaScript logic structure for individual sections, ensuring smooth interaction between UI components and user actions.
     <br>
