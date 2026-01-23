@@ -22,7 +22,9 @@
 <h3>ToolNext — Team Project (Frontend & Backend Developer)</h3> 
     
 <a href="https://project-group-6-fronted.vercel.app" target="_blank">Live Demo</a> |
+
 <a href="https://github.com/Buievska/project_group_6_fronted" target="_blank">GitHub Frontend</a> |
+
 <a href="https://github.com/Buievska/project_group_6_backend" target="_blank">GitHub Backend</a>
 
 • Developed booking-related frontend pages using Next.js App Router:
