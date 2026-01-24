@@ -53,12 +53,19 @@
 <a href="https://github.com/Buievska/project_group_6_backend" target="_blank">GitHub Backend</a>
 
 • Developed booking-related frontend pages using Next.js App Router:
+
 – Tool booking page (/tools/[toolId]/booking)
+
 – Booking confirmation page (/confirm/booking)
+
 • Improved and finalized the date picker/calendar logic used in the booking form
+
 • Integrated frontend with REST API using Axios and React Query
+
 • Implemented a public backend endpoint to fetch user public profile data by user ID
+
 • Worked in a cross-functional team using GitHub flow and code reviews
+
 Tech stack: Next.js | React | TypeScript | Zustand | TanStack React Query | Formik | Axios |
 Node.js | Express | MongoDB | Mongoose | JWT
 
